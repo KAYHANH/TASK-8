@@ -1,0 +1,6 @@
+Insights from the Sales Dashboard:
+
+1. The West region had the highest total sales in Q3, indicating strong regional performance.
+2. Among all product categories, Technology contributed the most to overall profits.
+3. December recorded the highest monthly sales, likely due to seasonal shopping behavior.
+4. The South region consistently had the lowest sales, suggesting potential for targeted improvement strategies.
